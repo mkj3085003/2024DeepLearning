@@ -1,1 +1,3 @@
 venv/
+mnist/
+.ipynb_checkpoints/
